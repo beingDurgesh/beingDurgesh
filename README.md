@@ -36,9 +36,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-dark.svg?palette=github-dark&color_snake=#10B981&color_dots=#161b22,#003300,#006600,#009900,#10B981" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-light.svg?palette=github&color_snake=#10B981&color_dots=#ebedf0,#d0f0d0,#80e080,#40c040,#10B981" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-light.svg?palette=github&color_snake=#10B981&color_dots=#ebedf0,#d0f0d0,#80e080,#40c040,#10B981" />
 </picture>
 
 </div>
