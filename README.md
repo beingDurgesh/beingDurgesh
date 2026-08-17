@@ -35,6 +35,8 @@
 
 <div align="center">
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/beingDurgesh/beingDurgesh/output/snake-dark.svg" />
