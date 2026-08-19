@@ -9,7 +9,7 @@
 
 <!-- ===== GITHUB STATS ===== -->
 
-div align="center">
+<div align="center">
 
 <!-- Streak — full width -->
 <picture>
