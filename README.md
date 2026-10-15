@@ -110,7 +110,7 @@
 <br/>
 <div align="center">
 
-<a href="https://twitter.com/Durgesh964">
+<a href="https://twitter.com/Durgesh0964">
   <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=10B981&labelColor=0A0A0A" alt="Twitter" />
 </a>
 &nbsp;&nbsp;
