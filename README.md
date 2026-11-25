@@ -52,7 +52,7 @@
 <br/>
 <div align="center">
 
-<a href="https://twitter.com/Durgesh0964">
+<a href="https://twitter.com/n0twotuthink">
   <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=10B981&labelColor=0A0A0A" alt="Twitter" />
 </a>
 &nbsp;&nbsp;
